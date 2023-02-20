@@ -34,13 +34,13 @@ Table of contents
 
 ## 🎨 Layout
 
-<img src="https://londer.w3spaces.com/github_coffe/cafes_header.jpeg" />
+<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/Coffee%20Delivery%20-%20Home.png?alt=media&token=5337417b-4a3e-49cf-84ca-7e1488ad306b" />
 <br/>
-<img src="https://londer.w3spaces.com/github_coffe/cafesList.jpeg" />
+<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/Coffee%20Delivery%20-%20Checkout.png?alt=media&token=45886e8e-2b96-4ebb-8a0a-0f6403651c76" />
 <br/>
-<img src="https://londer.w3spaces.com/github_coffe/cafes_cart.jpeg" />
+<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/Coffee%20Delivery%20-%20Checkout%20Filled.png?alt=media&token=9ef3e56f-4ee5-4a57-a730-1fa511f72a5c" />
 <br/>
-<img src="https://londer.w3spaces.com/github_coffe/Cafes_end.jpeg" />
+<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/Coffee%20Delivery%20-%20Success.png?alt=media&token=c639f3c8-a0d5-4efe-9e41-76877ba9ed7e" />
 
 
 ## 🚀 How To Run the Project
